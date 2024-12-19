@@ -6,8 +6,8 @@ Real-Time Prices: Stay updated with the latest cryptocurrency prices.
 Historical Charts: Analyze market trends through detailed historical data.
 Portfolio Management: Track your investments and monitor their performance.
 Price Alerts: Set alerts for significant price changes and get notified instantly.
-🛠️ Getting Started
-    Follow these steps to set up Cypto-Hunter locally:
+
+Follow these steps to set up Cypto-Hunter:
 
 Prerequisites
 Ensure you have the following tools installed:
